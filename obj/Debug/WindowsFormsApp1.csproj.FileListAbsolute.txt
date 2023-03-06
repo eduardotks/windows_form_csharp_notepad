@@ -1,0 +1,33 @@
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user_mrttgvtef311\OneDrive - Tribanco\Área de Trabalho\Arquivos\Outros Arquivos\Nova pasta\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.exe.config
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.exe
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.pdb
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.Home.resources
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.exe
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.pdb
