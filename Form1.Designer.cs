@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace NotepadProject
 {
     partial class Home
     {

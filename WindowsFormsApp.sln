@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1.csproj", "{DEF298F5-B56F-4B02-944D-D99B25BAC4AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotepadProject", "NotepadProject.csproj", "{DEF298F5-B56F-4B02-944D-D99B25BAC4AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

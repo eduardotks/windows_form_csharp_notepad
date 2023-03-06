@@ -1,0 +1,11 @@
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.exe.config
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.exe
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.pdb
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.SuggestedBindingRedirects.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.GenerateResource.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.CoreCompileInputs.cache
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.exe
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.pdb
+C:\$$$$$CCOD\windowsForm\windows_form_csharp_notepad\obj\Debug\NotepadProject.Home.resources
