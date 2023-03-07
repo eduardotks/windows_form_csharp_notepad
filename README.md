@@ -2,7 +2,7 @@
 
 ### Description
 
-- Projeto de um bloco de notas em Windows Form
+- Notepad project using the Windows Form Application.
 
 ### Technologies
 
