@@ -18,3 +18,14 @@ V:\winform\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.GenerateR
 V:\winform\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.CoreCompileInputs.cache
 V:\winform\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.exe
 V:\winform\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.pdb
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.exe.config
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.exe
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\bin\Debug\WindowsFormsApp1.pdb
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.AssemblyReference.cache
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.SuggestedBindingRedirects.cache
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\NotepadProject.Home.resources
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.GenerateResource.cache
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\NotepadProject.csproj.CoreCompileInputs.cache
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.exe
+C:\$$$$$CCOD\notepad\windows_form_csharp_notepad\obj\Debug\WindowsFormsApp1.pdb

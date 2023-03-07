@@ -77,7 +77,6 @@ namespace NotepadProject
         }
 
 
-
         private void openToolStripMenuItem_Click(object sender, EventArgs e)
         {
             DialogResult dr = openFileDialog1.ShowDialog();
@@ -94,7 +93,6 @@ namespace NotepadProject
                 read.Close();
             }
         }
-
         static string ReadAndDisplayFilesAsync(string filename)
         {
             Char[] buffer;
@@ -127,7 +125,6 @@ namespace NotepadProject
             }
         }
 
-
         private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
         {
             string Caminho = saveFileDialog1.FileName;
@@ -136,10 +133,9 @@ namespace NotepadProject
         }
 
 
-
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("This Application is created by Eduardo Tk. This is only for learning purpose, anyone can try this and use this to learn too.", "About NotePad ", (MessageBoxButtons)MessageBoxButton.OK, System.Windows.Forms.MessageBoxIcon.Information); ;
+            MessageBox.Show("This Application was created by Eduardo Tk. This is only for learning purpose, anyone can try and use this to learn too.", "About NotePad ", (MessageBoxButtons)MessageBoxButton.OK, System.Windows.Forms.MessageBoxIcon.Information); ;
         }
 
         private void fontToolStripMenuItem_Click(object sender, EventArgs e)
@@ -225,6 +221,11 @@ namespace NotepadProject
         }
 
         private void formatToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void menuStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
 
         }
