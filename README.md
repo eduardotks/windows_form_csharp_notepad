@@ -15,6 +15,9 @@
 - Open with Visual Studio
 - Run
 
+### Instalation Exe
+
+- Download the app <a href="https://github.com/eduardotks/windows_form_csharp_notepad/releases/tag/v1.0.1-NotepadTk">Here</a>
 
 ### Image
 
